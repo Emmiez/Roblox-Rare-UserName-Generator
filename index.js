@@ -185,7 +185,7 @@ function getUser(username) {
 						.setTitle('Username Sniped!')
 						.addField('Username:', username, true)
 						.setColor('RANDOM')
-						.setFooter('Made by Veinify#1210')
+						.setFooter('Made by Emmie#0001')
 						.setTimestamp();
 					hook.send(embed).catch(err => {
 						console.log(
